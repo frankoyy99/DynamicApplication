@@ -1,0 +1,11 @@
+/* color de disponibilidad */
+.disponible {
+    background-color: green;
+    color: white;
+}
+
+.ocupada {
+    background-color: red;
+    color: white;
+}
+/* ----------------- */
